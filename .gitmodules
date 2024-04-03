@@ -1,0 +1,6 @@
+[submodule "nest-app"]
+	path = nest-app
+	url = https://github.com/AndresGomez28/nest-app.git
+[submodule "tasks-api"]
+	path = tasks-api
+	url = https://github.com/AndresGomez28/tasks-api.git
